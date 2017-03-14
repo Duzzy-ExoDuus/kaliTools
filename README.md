@@ -9,8 +9,8 @@ A simple tool to install kali tools (write by bash, test on ubuntu & debian)
 # Installation
 - git clone git@github.com:geange/kaliTools.git
 - cd kaliTools
-- chmod +x index.sh\n
-- sudo ./index.sh\n
+- chmod +x index.sh
+- sudo ./index.sh
 
 # Usage
 - press Enter to ensure
