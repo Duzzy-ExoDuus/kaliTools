@@ -21,8 +21,12 @@ A simple tool to install kali tools (write by bash, test on ubuntu & debian)
 - https://github.com/LionSec/katoolin
 - I try to use bash to rewrite katoolin project.
 
+# Contact
+- email: geange@outlook.com
+
 
 # display effect
 - I use the deepin linux. And Display effect may depends on your linux desktop.
 ![kaliTools](https://github.com/geange/picture/blob/master/DeepinScreenshot20170315012815.png)
 ![kaliTools](https://github.com/geange/picture/blob/master/DeepinScreenshot20170315012839.png)
+
